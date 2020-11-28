@@ -1,6 +1,6 @@
 # GCD_project
-Repository for the Getting and Cleaning Data Course
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+Repository for the Getting and Cleaning Data Course project
+
 This repository is a Esteban Calderon submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
